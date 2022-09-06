@@ -1,0 +1,28 @@
+h1{
+    margin-left: 0.3cm;
+}
+
+#table{
+    width: 100%;
+
+}
+
+.top{
+    margin: 0 0.3cm 0 0.3cm;
+    display: flex;
+    justify-content: space-between;
+}
+.top .buttons-excel{
+    background-color: green;
+}
+.top .buttons-pdf{
+    background-color: rgb(179, 92, 92);
+}
+.top .buttons-csv{
+    background-color: rgb(148, 179, 95);
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    margin-right: 0.3cm;
+}
